@@ -15,6 +15,7 @@
   "resources": {
     "media": [
       {
+        "characterRegex": "[:0-9]",
         "type": "font",
         "name": "FONT_PERFECT_DOS_40",
         "file": "fonts/perfect-dos-vga.ttf",
