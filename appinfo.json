@@ -1,0 +1,30 @@
+{
+  "uuid": "db2b302d-9ffc-4af5-ad9c-81e1f9f3b6e3",
+  "shortName": "Tutorial1",
+  "longName": "Tutorial1",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_PERFECT_DOS_40",
+        "file": "fonts/perfect-dos-vga.ttf",
+        "compatibility": "2.7"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+      }
+    ]
+  }
+}
